@@ -33,8 +33,6 @@ I began by importing essential Python libraries for data analysis and visualizat
 ```python
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 ```
 
 ---
